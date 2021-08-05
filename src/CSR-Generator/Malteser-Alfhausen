@@ -2,6 +2,6 @@ This script will create your private key and certificate request with prefilled 
 
 Usage - shell necessary (you might need to make the script executable):
 
-./create-client-csr.sh <partnername>
+./create-client-csr.sh  malteser-alfhausen 
 
 After generation send both CSR files to us and keep your private keys.
